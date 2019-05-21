@@ -1,0 +1,4 @@
+﻿  Mock_Examination.cpp
+c:\users\hahooon\source\repos\prgrammers\mock_examination\mock_examination\mock_examination.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hahooon\source\repos\prgrammers\mock_examination\mock_examination\mock_examination.cpp(38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Mock_Examination.vcxproj -> C:\Users\hahooon\source\repos\prgrammers\Mock_Examination\Debug\Mock_Examination.exe

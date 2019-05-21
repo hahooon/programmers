@@ -1,0 +1,3 @@
+﻿  numericBaseball.cpp
+c:\users\hahooon\source\repos\prgrammers\numeric_baseball\numeric_baseball\numericbaseball.cpp(23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Numeric_Baseball.vcxproj -> C:\Users\hahooon\source\repos\prgrammers\Numeric_Baseball\Debug\Numeric_Baseball.exe
